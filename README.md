@@ -13,7 +13,7 @@ The dataset used in this project is sourced from the World Bank and contains his
 ## Project Details
 The primary objective of this project is to analyze and visualize the data related to IDA loans granted to India. By utilizing advanced SQL queries, I was able to extract and transform the data effectively. The final visualizations created in Tableau provide a comprehensive view of the following:
 - Total amount due to IDA (in USD)
-- Total loans count
+- Total loan count
 - Disburse rate
 - Top 10 projects funded using IDA grants
 - Yearly count of projects
